@@ -1,2 +1,2 @@
 # my-first-project
-To-Do app
+To-Do List app
